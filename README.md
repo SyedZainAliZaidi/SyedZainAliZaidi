@@ -22,17 +22,17 @@
 
 ---
 
-### My IntroD.
+###  My IntroD.
 
-Computer Science undergraduate at the **National University of Modern Languages (NUML), Faisalabad**, working as a systems engineer within the software engineering domain. I take ownership of a project end to end — requirements, setup, documentation, development, and delivery of a complete working software product.
+I'm a Computer Science undergraduate at the **National University of Modern Languages (NUML), Faisalabad**, working as a systems engineer in the software engineering domain. I like owning a project from start to finish: gathering requirements, setting things up, writing the documentation, building the product, and shipping it.
 
-Experienced across software integration and applied AI, with hands-on work spanning machine learning, computer vision, and multi-agent AI systems. Recently served as a **Section Leader for Stanford University's Code in Place 2026**, teaching Python and Karel to a global cohort of learners.
+My background covers both Software Integration and applied AI ( for example : auth, connecting interfaces, messaging protocls, API'S, assigning required connectivity wether it's hardware or cloud based), with hands on work in machine learning, computer vision, and multi agent AI systems. I recently served as a Section Leader for Stanford University's Code in Place 2026, teaching Python and the Karel framework to a global cohort of learners.
 
--  BS Computer Science, NUML Faisalabad (2023 – Present)
--  Founder & Systems Engineer, **Zenith Enterprises** (2024 – Present)
--  Trainer & Moderator, **iCodeGuru** — GitHub, ML, Generative AI, Agentic AI
--  LABLAB.AI (2025) · 3rd Place, Raise Your Hack 2025 (Paris)
--  Faisalabad, Pakistan
+- 🎓 BS Computer Science, NUML Faisalabad (2023 – Present)
+- 🏢 Founder & Systems Engineer, **Zenith Enterprises** (2024 – Present)
+- 🧑‍🏫 Trainer & Moderator, **iCodeGuru**: GitHub, ML, Generative AI, and Agentic AI
+- 🏆 ICPC Regionalist (2026), 3rd Place at Raise Your Hack 2025 in Paris
+- 📍 Faisalabad, Pakistan
 
 ---
 
@@ -41,28 +41,28 @@ Experienced across software integration and applied AI, with hands-on work spann
 | Role | Organization | Duration |
 |---|---|---|
 | Founder and Systems Engineer | Zenith Enterprises | 2024 – Present |
-| Web Developer and AI Programmer | CroenTechSol & GemsTechInstitute | 2023 – 2024 |
+| Web Developer and AI Programmer | CrownTechSol & GemsTechInstitute | 2023 – 2024 |
 | Section Leader, Code in Place 2026 | Stanford University | 2026 |
 | Trainer and Moderator | iCodeGuru | 2025 – Present |
 
 ---
 
-### Projects
+###  Featured Projects
 
-** Pre-Detect Grid AI — Final Year Project** `2025 – Present`
-AI-powered mobile safety system for electrical linemen at FESCO. Vision Transformers, Edge AI, Explainable AI, weather-based risk prediction, and voice guidance — trained on 10,343 images across 10 pole component classes. Supervised by Dr. Pervez Akhtar and Muhammad Azeem, with partner Muhammad Talha Kashif.
+**Pre-Detect Grid AI, Final Year Project** `2025 – Present`
+An AI powered mobile safety system for electrical linemen at FESCO. It combines Vision Transformers, Edge AI, and Explainable AI with weather based risk prediction and voice guidance, trained on 10,343 images across 10 pole component classes. Supervised by Dr. Pervez Akhtar and Muhammad Azeem, with my partner Muhammad Talha Kashif.
 
-** BridgeYield** `2026`
-Multi-agent fintech application built on the Google Gemini API — an AI financial advisor, an NLP emotion companion, a voice-first interface, and a dedicated security agent.
+**BridgeYield** `2026`
+A multi agent fintech application built on the Google Gemini API, featuring an AI financial advisor, an NLP emotion companion, a voice first interface, and a dedicated security agent.
 
-** AI-Powered Contract Auditing and Mentoring Platform** `2025`
-Built at **Raise Your Hack 2025** (hosted by lablab.ai) using Fetch.ai agents, Groq-accelerated LLaMA, and the ASI:One LLM. 🥉 **3rd place** at the global final in Paris among 6,200+ participants and 900 teams.
+**AI Powered Contract Auditing and Mentoring Platform** `2025`
+Built at Raise Your Hack 2025, hosted by lablab.ai, using Fetch.ai agents, Groq accelerated LLaMA, and the ASI:One LLM. 🥉 Placed 3rd at the global final in Paris among more than 6,200 participants and 900 teams.
 
-** NASA International Space Apps Challenge** `2025`
-Contributed to a team project under the Space Biology challenge track — one of the world's largest open innovation hackathons. Awarded an official NASA Hackathon Certificate.
+**NASA International Space Apps Challenge** `2025`
+Contributed to a team project under the Space Biology challenge track at one of the world's largest open innovation hackathons, and received an official NASA Hackathon Certificate for the work.
 
-** AI-Powered Habit Tracker** `2025`
-Habit-tracking mobile app with a clean interface for logging daily routines, goal streaks, and progress insights.
+**AI Powered Habit Tracker** `2025`
+A habit tracking mobile app with a clean interface for logging daily routines, plus a supporting layer for goal streaks and progress insights.
 
 ---
 
@@ -76,11 +76,11 @@ Habit-tracking mobile app with a clean interface for logging daily routines, goa
 
 ---
 
-###  Certifications & Achievements
+### 🏅 Certifications & Achievements
 
 - 🎖️ Section Leader, Stanford University Code in Place 2026
-- 🥇 Selected as an NasaSpaceAppsChallenge, 2025
-- 🥉 Third Place, Raise Your Hack 2025 — lablab.ai global hackathon final, Paris
+- 🥇 Selected as an ICPC Regionalist, 2026
+- 🥉 Third place, Raise Your Hack 2025, lablab.ai global hackathon final in Paris
 - 🛰️ NASA Hackathon Certificate, NASA International Space Apps Challenge
 - 📜 Internship and Collaboration Certificate, CrownTechSol
 - 📜 Internship and Collaboration Certificate, GemsTechInstitute
@@ -91,29 +91,29 @@ Habit-tracking mobile app with a clean interface for logging daily routines, goa
 
 ###  Education
 
-**BS Computer Science** — NUML, Faisalabad *(2023 – Present)*
-**Intermediate, Pre-Engineering** — Punjab Group of Colleges *(2020 – 2022)*
+**BS Computer Science**, NUML, Faisalabad *(2023 – Present)*
+**Intermediate, Pre-Engineering**, Punjab Group of Colleges *(2020 – 2022)*
 
 ---
 
 ###  GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SyedZainAliZaidi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedZainAliZaidi&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SyedZainAliZaidi&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedZainAliZaidi&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedZainAliZaidi&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=SyedZainAliZaidi&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-###  Everyt Hub — My YouTube Channel
+###  Everyt Hub, My YouTube Channel
 
 [![Everyt Hub](https://img.shields.io/badge/▶️_Subscribe_to_Everyt_Hub-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCo2RwKK3arkFbqg2Imzf0fA)
 
-Cinematic, story-driven CS & AI content — not your typical teacher-student explainer format.
+Cinematic, story driven CS and AI content, not your typical teacher student explainer format.
 
 ---
 
