@@ -22,21 +22,21 @@
 
 ---
 
-### 🧭 About Me
+### My IntroD.
 
 Computer Science undergraduate at the **National University of Modern Languages (NUML), Faisalabad**, working as a systems engineer within the software engineering domain. I take ownership of a project end to end — requirements, setup, documentation, development, and delivery of a complete working software product.
 
-Experienced across web development and applied AI, with hands-on work spanning machine learning, computer vision, and multi-agent AI systems. Recently served as a **Section Leader for Stanford University's Code in Place 2026**, teaching Python and Karel to a global cohort of learners.
+Experienced across software integration and applied AI, with hands-on work spanning machine learning, computer vision, and multi-agent AI systems. Recently served as a **Section Leader for Stanford University's Code in Place 2026**, teaching Python and Karel to a global cohort of learners.
 
-- 🎓 BS Computer Science, NUML Faisalabad (2023 – Present)
-- 🏢 Founder & Systems Engineer, **Zenith Enterprises** (2024 – Present)
-- 🧑‍🏫 Trainer & Moderator, **iCodeGuru** — GitHub, ML, Generative AI, Agentic AI
-- 🏆 ICPC Regionalist (2026) · 3rd Place, Raise Your Hack 2025 (Paris)
-- 📍 Faisalabad, Pakistan
+-  BS Computer Science, NUML Faisalabad (2023 – Present)
+-  Founder & Systems Engineer, **Zenith Enterprises** (2024 – Present)
+-  Trainer & Moderator, **iCodeGuru** — GitHub, ML, Generative AI, Agentic AI
+-  LABLAB.AI (2025) · 3rd Place, Raise Your Hack 2025 (Paris)
+-  Faisalabad, Pakistan
 
 ---
 
-### 💼 Experience
+###  Experience
 
 | Role | Organization | Duration |
 |---|---|---|
@@ -47,26 +47,26 @@ Experienced across web development and applied AI, with hands-on work spanning m
 
 ---
 
-### 🚀 Featured Projects
+### Projects
 
-**🔌 Pre-Detect Grid AI — Final Year Project** `2025 – Present`
+** Pre-Detect Grid AI — Final Year Project** `2025 – Present`
 AI-powered mobile safety system for electrical linemen at FESCO. Vision Transformers, Edge AI, Explainable AI, weather-based risk prediction, and voice guidance — trained on 10,343 images across 10 pole component classes. Supervised by Dr. Pervez Akhtar and Muhammad Azeem, with partner Muhammad Talha Kashif.
 
-**💹 BridgeYield** `2026`
+** BridgeYield** `2026`
 Multi-agent fintech application built on the Google Gemini API — an AI financial advisor, an NLP emotion companion, a voice-first interface, and a dedicated security agent.
 
-**📑 AI-Powered Contract Auditing and Mentoring Platform** `2025`
+** AI-Powered Contract Auditing and Mentoring Platform** `2025`
 Built at **Raise Your Hack 2025** (hosted by lablab.ai) using Fetch.ai agents, Groq-accelerated LLaMA, and the ASI:One LLM. 🥉 **3rd place** at the global final in Paris among 6,200+ participants and 900 teams.
 
-**🛰️ NASA International Space Apps Challenge** `2025`
+** NASA International Space Apps Challenge** `2025`
 Contributed to a team project under the Space Biology challenge track — one of the world's largest open innovation hackathons. Awarded an official NASA Hackathon Certificate.
 
-**📱 AI-Powered Habit Tracker** `2025`
+** AI-Powered Habit Tracker** `2025`
 Habit-tracking mobile app with a clean interface for logging daily routines, goal streaks, and progress insights.
 
 ---
 
-### 🛠️ Skills
+###  Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,flutter,dart,androidstudio,tensorflow,opencv,mysql,postgres,git,github,vscode,figma,linux" />
@@ -76,27 +76,27 @@ Habit-tracking mobile app with a clean interface for logging daily routines, goa
 
 ---
 
-### 🏅 Certifications & Achievements
+###  Certifications & Achievements
 
 - 🎖️ Section Leader, Stanford University Code in Place 2026
-- 🥇 Selected as an ICPC Regionalist, 2026
+- 🥇 Selected as an NasaSpaceAppsChallenge, 2025
 - 🥉 Third Place, Raise Your Hack 2025 — lablab.ai global hackathon final, Paris
 - 🛰️ NASA Hackathon Certificate, NASA International Space Apps Challenge
-- 📜 Internship and Collaboration Certificate, CroenTechSol
+- 📜 Internship and Collaboration Certificate, CrownTechSol
 - 📜 Internship and Collaboration Certificate, GemsTechInstitute
 - 📜 Latest Trends in Technology 2025, iCodeGuru
 - 📜 Sage Certification Webinar
 
 ---
 
-### 🎓 Education
+###  Education
 
 **BS Computer Science** — NUML, Faisalabad *(2023 – Present)*
 **Intermediate, Pre-Engineering** — Punjab Group of Colleges *(2020 – 2022)*
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SyedZainAliZaidi&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -109,7 +109,7 @@ Habit-tracking mobile app with a clean interface for logging daily routines, goa
 
 ---
 
-### 🎬 Everyt Hub — My YouTube Channel
+###  Everyt Hub — My YouTube Channel
 
 [![Everyt Hub](https://img.shields.io/badge/▶️_Subscribe_to_Everyt_Hub-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCo2RwKK3arkFbqg2Imzf0fA)
 
@@ -118,5 +118,5 @@ Cinematic, story-driven CS & AI content — not your typical teacher-student exp
 ---
 
 <p align="center">
-  <i>📫 Reach me: zainali3164@gmail.com &nbsp;|&nbsp; +92 308 1068246 &nbsp;|&nbsp; Faisalabad, Pakistan</i>
+  <i> Reach me: zainali3164@gmail.com &nbsp;|&nbsp; +92 308 1068246 &nbsp;|&nbsp; Faisalabad, Pakistan</i>
 </p>
